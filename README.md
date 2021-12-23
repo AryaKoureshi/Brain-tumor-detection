@@ -13,7 +13,7 @@ You can by using this site [Makesense](https://www.makesense.ai/) annotate your 
 -------
 ## Model
 # Unet Architecture
-![img/Model.png](/Model.png)
+![Model.png](/Model.png)
 This deep neural network is implemented with Keras functional API.
 
 ### Training
@@ -21,10 +21,13 @@ This deep neural network is implemented with Keras functional API.
 The model is trained for 10 epochs.
 After 10 epochs, calculated accuracy is about 0.98.
 Loss function for the training is basically just a binary crossentropy
+You can download my trained model from [U-net](https://drive.google.com/drive/folders/1qt7l3HOGIwOguWsMKc5fuwG2NGiGOucf?usp=sharing)
+
 # CNN
 The model is trained for 15 epochs.
 After 15 epochs, calculated accuracy is about 0.996.
 Loss function for the training is basically just a binary crossentropy
+You can download my trained model from [CNN](https://drive.google.com/drive/folders/1fXFzMwNG6HrbNp6-GASAgeybeSB3JWCd?usp=sharing)
 
 ----
 ## How to use
