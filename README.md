@@ -13,7 +13,7 @@ You can by using this site [Makesense](https://www.makesense.ai/) annotate your 
 -------
 ## Model
 # Unet Architecture
-![Model.png](/Model.png)
+![Model.jpg](/Model.jpg)
 This deep neural network is implemented with Keras functional API.
 
 ### Training
