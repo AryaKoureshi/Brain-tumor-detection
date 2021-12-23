@@ -34,6 +34,3 @@ Loss function for the training is basically just a binary crossentropy
 ### Results
 Use the trained model to do segmentation on test images. The result is satisfactory.
 ![/results.png](results.png)
-
-![img/0label.png](img/0label.png)
-
