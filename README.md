@@ -8,7 +8,7 @@ The original dataset is from [Kaggle: Br35H::Brain Tumor Detection 2020](https:/
 
 Since the original dataset has 500 images for training and this number is small, I collected more data from different sources and generated more data using Flimimg.py. You can find it in /ImageSegmentation/MakeMoreData/ and use this dataset to train your custom model.
 
-You can by using [this site: Makesense](https://www.makesense.ai/) annotate your data and use the JsonAnnotation_to_JpgAnnotation.py to make the PNG annotations. You can find it in /ImageSegmentation/AnnotationMaker/ .
+You can by using this site: [Makesense](https://www.makesense.ai/) annotate your data and use the JsonAnnotation_to_PNGAnnotation.py to make the PNG annotations. You can find it in /ImageSegmentation/AnnotationMaker/ .
 
 This [Dataset](https://drive.google.com/drive/folders/1E7m4RwQNwlZGpQ44NyR6-y2dCoL5YCfi?usp=sharing) has been used to train these models.
 -------
