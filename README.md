@@ -20,7 +20,11 @@ This [Dataset](https://drive.google.com/drive/folders/1E7m4RwQNwlZGpQ44NyR6-y2dC
 ## Model
 
 ### Unet Architecture
-![Model.jpg](/Model.jpg)
+
+<p align="center">
+    <img width="60%" src="Model.jpg">
+</p>
+
 This deep neural network is implemented with Keras functional API.
 
 ---
@@ -49,4 +53,7 @@ You can download my trained model from [CNN](https://drive.google.com/drive/fold
 
 ## Results
 Use the trained model to do segmentation on test images. The result is satisfactory.
-![/results.png](results.png)
+
+<p align="center">
+    <img width="60%" src="results.png">
+</p>
